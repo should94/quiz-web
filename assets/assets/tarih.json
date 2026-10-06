@@ -1,0 +1,730 @@
+[
+    
+    {
+        "testId": 1,
+        "testName": "Test 1",
+        "questions": [
+        {
+            "questionText": "İslamiyet öncesi Türk devletlerinde Gök Tanrı tarafından hükümdara ve ailesine devleti yönetme yetkisi verildiğine inanılan anlayışa ne ad verilir?",
+            "options": ["Kut", "Ülüş", "Tüz", "Töre", "Kurultay"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Kut: Gök tanrı tarafından hükümdar ve ailesine, devleti yönetmesi için verilmiş olan siyası güç veya yetkidir.",
+            "Ülüş: Gök tanrı tarafından hükümdara verilmiş ekonomik, iktisadi yetkidir. ",
+            "Tüz: Hükümdar ile halk arasındaki karşılıklı görev ve sorumlulukları belirleyen yazısız sözleşmedir.",
+            "Töre: Toplumun hayat düzenini sağlayan, hükümdar dahil herkesin uymak zorunda olduğu yazısız hukuk kuralları bütünüdür.",
+            "Kurultay: Devletin en önemli siyasi, askeri ve ekonomik meselelerinin görüşülüp, karara bağlandığı danışma meclisidir."]
+        },
+        {
+            "questionText": "Asya Hun Devleti'nin en önemli hükümdarı olan Mete Han, orduda onlu sistemi bularak ilk defa düzenli orduyu kurmuştur. Mete Han bu düzenli ordu sayesinde yaptığı seferlerde başarılı olmasına rağmen, Türk milletinin asimile olmasını önlemek amacıyla hangi devleti kendi sınırlarına katmayarak devamlı vergiye bağlamıştır?",
+            "options": ["Sasaniler", "Bizans", "Çin", "Köktürkler", "Avarlar"],
+            "correctOptionIndex": 2,
+            "explanation": "Mete Han, kalabalık Çin nüfusu arasında Türklerin asimile olmasını engellemek için Çin'i vergiye bağlamış ancak topraklarına katmamıştır."
+        },
+        {
+            "questionText": "Uygurlar döneminde Manihaizm dininin kabul edilmesi Türk yaşam tarzında köklü değişimlere yol açmıştır. Aşağıdakilerden hangisi Manihaizm dininin kabulünün Uygurlarda yarattığı sonuçlardan biri değildir?",
+            "options": ["Yerleşik yaşama geçilmesi", "Tarım faaliyetlerinin başlaması", "Savaşçılık özelliklerinin yitirilmeye başlanması", "Çin harfli matbaanın getirilmesi", "Gök Tanrı inancının tamamen unutulması"],
+            "correctOptionIndex": 4,
+            "explanation": "Manihaizm etkisiyle hayvancılık ve savaşçılık özellikleri zayıflasa da Gök Tanrı inancı tamamen unutulmamıştır."
+        },
+        {
+            "questionText": "Doğu Avrupa tarihinde büyük bir rol oynamış olan ve Türk tarihinde Museviliği kabul eden ilk ve tek Türk devleti aşağıdakilerden hangisidir?",
+            "options": ["Avarlar", "Hazarlar", "Peçenekler", "Bulgarlar", "Kıpçaklar"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Hazarlar, Kafkasya bölgesinde hakimiyet kurmuş ve Museviliği benimseyen tek Türk devletidir.",
+            "Halk arasında farklı inançlar hoşgörü içerisinde bir arada yaşamıştır. Müslümanların başına Hazz adı verilen yöneticiler atanmıştır.", 
+            "Yaşadığı dönem Pax Hazaria - Hazar Barış Çağı olarak adlandırılır.","Bu dönemde ticarette iyi bir noktaya gelinmiş,",
+            "Kürk yolunu kullanarak zenginleşmiştir. Ordusunda ücretli asker bulunduran tek Türk devletidir.",
+            "Kafkasya ve Doğu Avrupa'da Müslüman Araplarla mücadale ederek İslâmiyet'in bu bölgelerde yayılmasını geciktirmiştir."]
+        },
+        {
+            "questionText": "Orhun Abideleri hangi Türk devleti döneminde oluşturulmuştur?",
+            "options": ["Asya Hun Devleti", "I. Köktürk Devleti", "Kutluklar (II. Köktürk)", "Uygur Devleti", "Türgişler"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Türk edebiyatının ve tarihinin ilk yazılı belgeleri olan Orhun Abideleri, II. Köktürk (Kutluk) Devleti döneminde dikilmiştir.",
+            "Orhun Abideleri; Tonyukuk,Kültigin ve Bilge Kağan adına dikilmiştir. Tonyukuk, kitabesini kendisi yazmıştır.",
+            "Diğer kitabelerin yazarı Yolluğ Tigin'dir."]
+        },
+        {
+            "questionText": "Orta Asya'da kurulan ilk Müslüman Türk devleti aşağıdakilerden hangisidir?",
+            "options": ["Gazneliler", "Karahanlılar", "Büyük Selçuklu Devleti", "Tolunoğulları", "İtil Bulgarları"],
+            "correctOptionIndex": 1,
+            "explanation": "Karahanlılar, Orta Asya'da kurulmuş ve İslamiyet'i resmi din olarak benimseyen ilk Müslüman Türk devletidir."
+        },
+        {
+            "questionText": "Gazneli Mahmut, Hindistan'a düzenlediği seferler sonucunda elde ettiği başarılar ve özellikle Sumnat Seferi sonrasında hangi ünvanla anılmıştır?",
+            "options": ["Sultan-ı Azam", "Put Kırıcı", "Ebul Feth", "Zarrab", "El-Mücahit"],
+            "correctOptionIndex": 1,
+            "explanation": "Gazneli Mahmut, Hindistan'daki puthaneleri ve özellikle Sumnat Tapınağı'nı yıktığı için 'Put Kırıcı' olarak anılmıştır."
+        },
+        {
+            "questionText": "Büyük Selçuklu Devleti ile Bizans İmparatorluğu arasında yapılan ve Anadolu'nun kapılarının Türklere kesin olarak açılmasını sağlayan savaş aşağıdakilerden hangisidir?",
+            "options": ["Pasinler Savaşı", "Dandanakan Savaşı", "Malazgirt Savaşı", "Katvan Savaşı", "Miryakefalon Savaşı"],
+            "correctOptionIndex": 2,
+            "explanation": "1071 Malazgirt Zaferi ile Türklerin Anadolu'ya yerleşme süreci kesinlik kazanmıştır."
+        },
+        {
+            "questionText": "İlk Müslüman Türk devletlerinde devlete ait olan ve kimsenin mülkiyetinde bulunmayan toprakların gelirlerinin askerî ve sivil devlet görevlilerine maaş veya hizmet karşılığı verilmesi sistemine ne ad verilir?",
+            "options": ["Gulam Sistemi", "İkta Sistemi", "Ribat Sistemi", "Salgör Sistemi", "Dârüşşifa Sistemi"],
+            "correctOptionIndex": 1,
+            "explanation": "İkta sistemi sayesinde hem memur/asker maaşları ödenmiş hem de tarımda üretim sürekliliği sağlanmıştır."    
+        },
+        {
+            "questionText": "\"Mutluluk veren bilgi\" anlamına gelen, adalet, devlet, akıl ve kanaat olmak üzere dört temel üzerine yazılan ilk yazılı Türk-İslam eseri ve yazarı aşağıdakilerden hangisidir?",
+            "options": ["Divanü Lügati't Türk - Kaşgarlı Mahmut", "Kutadgu Bilig - Yusuf Has Hacip", "Atabet'ül Hakayık - Edip Ahmet Yükneki", "Divan-ı Hikmet - Ahmet Yesevi", "Siyasetname - Nizamülmülk"],
+            "correctOptionIndex": 1,
+            "explanation":[ 
+            "Yusuf Has Hacip tarafından kaleme alınan Kutadgu Bilig, ilk Türk-İslam siyasetnamesi ve eseridir.",
+            "Divanü Lügati't Türk - Kaşgarlı Mahmut: Araplara Türkçe öğretmek ve Türk dilinin zenginliğini göstermek amacıyla kaleme alınan, ilk Türkçe ansiklopedik sözlüktür.",
+            "Atabet'ül Hakayık - Edip Ahmet Yükneki: Hakikatlerin eşiği anlamına gelen, İslamiyet'in esaslarını, ahlaklı ve erdemli bir insanın nasıl olması gerektiğini anlatan geçiş dönemi eseridir.", 
+            "Divan-ı Hikmet - Ahmet Yesevi: Yesevilik tarikatının kurucusu Ahmet Yesevi'nin, tasavvufi düşüncelerini ve İslam'ın esaslarını şiirsel bir dille halka aktardığı ilk tasavvufi Türk eseridir.",
+            "Siyasetname - Nizamülmülk: Büyük Selçuklu Devleti'ne vezirlik yapan Nizamülmülk tarafından yazılan, devlet yönetimi, idari teşkilatlanma ve adalet konularında rehber niteliği taşıyan bir siyasetnamedir."]
+        },
+        {
+            "questionText": "Anadolu Selçuklu Devleti ile Bizans İmparatorluğu arasında yapılan ve Anadolu'nun kesin olarak Türk yurdu hâline gelmesini sağlayan savaş aşağıdakilerden hangisidir?",
+            "options": ["Pasinler Savaşı", "Malazgirt Savaşı", "Miryakefalon Savaşı", "Yassıçemen Savaşı", "Kösedağ Savaşı"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "1176 Miryakefalon Savaşı ile Bizans'ın Anadolu'yu Türklerden geri alma ümidi tamamen sona ermiştir.",
+            "Pasinler Savaşı: Selçuklular ile Bizans İmparatorluğu arasında yapılan ilk büyük savaştır. Büyük Zap Suyu savaşı ile karıştırmayın. O savaş daha öncedir ancak yerel bir savaştır. Kaynaklarda daha çok Pasinler Savaşı ön plana çıkar. Zap Suyu Savaşı'nın daha önce olduğunu bilin.",
+            "Malazgirt Savaşı: Sultan Alparslan Dönemi, 26 Ağustos 1071' de Anadolu'nun kapılarının Türklere açılmasını sağlayan ve Bizans'ın yenilgiye uğratıldığı savaştır.",
+            "Yassıçemen Savaşı: I. Alaaddin Keykubad Dönemi, Anadolu Selçuklu Devleti ile Harzemşahlar arasında yapılmış ve Harzemşahların yıkılış sürecine girmesine neden olmuştur. Moğollar ile Türkler arasında tampon göervi gören Harzemşahlar'ın yıkılması ile Anadolu, Moğol istilasına açık hâle gelecektir.",
+            "Kösedağ Savaşı: Anadolu Selçuklu Devleti ile Moğollar arasında yapılmış ve Anadolu'nun İlhanlı hakimiyetine girmesine neden olan savaştır."]
+        },
+        {
+            "questionText": "Anadolu Selçuklu Devleti döneminde esnaf ve sanatkârları örgütleyen, mesleki eğitim veren ve Ahi Evran tarafından temelleri atılan teşkilat aşağıdakilerden hangisidir?",
+            "options": ["Divan-ı Pervane", "Ahilik Teşkilatı", "Gulamhane", "Bacıyan-ı Rum", "Ribat"],
+            "correctOptionIndex": 1,
+            "explanation": "Ahilik teşkilatı, esnaflar arasında ahlaki, dini ve mesleki dayanışmayı sağlamıştır."
+        },
+        {
+            "questionText": "1243 yılında Anadolu Selçuklu Devleti'nin mağlup olmasıyla sonuçlanan ve Anadolu Türk siyasi birliğinin bozularak İkinci Beylikler döneminin başlamasına yol açan savaş hangisidir?",
+            "options": ["Dandanakan Savaşı", "Otlukbeli Savaşı", "Çaldıran Savaşı", "Kösedağ Savaşı", "Yassıçemen Savaşı"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Kösedağ Savaşı sonrasında Anadolu'da Moğol egemenliği başlamış ve merkezi otorite zayıflayarak beylikler kurulmuştur.",
+            "Dandanakan Savaşı: Gazneliler ile Büyük Selçuklu Devleti arasında yapılan ve Büyük Selçuklu'nun resmen kurulup bağımsızlığını kazandığı savaştır.",
+            "Otlukbeli Savaşı: Osmanlı İmparatorluğu ile Akkoyunlu Devleti arasında yapılan ve Fatih Sultan Mehmet'in Akkoyunlu lideri Uzun Hasan'ı mağlup ettiği savaştır.", 
+            "Çaldıran Savaşı: Osmanlı İmparatorluğu ile Safevi Devleti (İran) arasında yapılan ve Yavuz Sultan Selim'in zaferiyle sonuçlanan savaştır.",        
+            "Yassıçemen Savaşı: Anadolu Selçuklu Devleti ile Harzemşahlar arasında yapılmış ve Harzemşahların yıkılma sürecine girmesine yol açmıştır."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde ilk kez parasal yolla (satın alma yoluyla) Osmanlı topraklarına katılan beylik aşağıdakilerden hangisidir?",
+            "options": ["Karesioğulları", "Germiyanoğulları", "Hamitoğulları", "Dulkadiroğulları", "Candaroğulları"],
+            "correctOptionIndex": 2,
+            "explanation": 
+            ["Hamitoğulları Beyliği, topraklarının bir kısmını para karşılığı satarak I. Murat Dönemi'nde Osmanlı'ya katılmıştır.",
+            "Karesioğulları: Orhan Bey Dönemi Osmanlı Devleti'ne kendi isteğiyle katılan ilk beyliktir; bu katılım sayesinde Osmanlı donanma gücü kazanmış ve Rumeli'ye geçişi kolaylaşmıştır.",
+            "Germiyanoğulları: I. Murat Dönemi'nde Osmanlı Devleti'ne çeyiz yoluyla (vasiyet/evlilik yoluyla) topraklarını bırakan beyliktir.",
+            "Dulkadiroğulları: Osmanlı Devleti'ne katılan son beyliktir. (Turnadağ Savaşı ile) Bu katılım sayesinde Anadolu Türk siyasi birliği kesin olarak sağlanmıştır.",
+            "Candaroğulları(İsfendiyaroğulları): Karadeniz Bölgesi' nde (Kastamonu, Sinop çevresinde) hüküm süren ve Fatih Sultan Mehmet Dönemi' nde Osmanlı topraklarına katılan bir beyliktir."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'ne katılan ilk beylik olup, bu beyliğin alınmasıyla Osmanlı donanma gücüne kavuşmuş ve denizcilik faaliyetleri başlamıştır. Bu özelliklere sahip beylik aşağıdakilerden hangisidir?",
+            "options": ["Aydınoğulları", "Menteşeoğulları", "Karesioğulları", "Saruhanoğulları", "Candaroğulları"],
+            "correctOptionIndex": 2,
+            "explanation": "Karesioğulları'nın alınması, Osmanlı'nın denizciliğe adım atmasında ve Rumeli'ye geçişinde dönüm noktası olmuştur. Seçeneklerdeki diğer beylikler de denizci beyliklerdir."
+        },
+        {
+            "questionText": "İstanbul'u fethederek \"Fatih\" ünvanını alan ve Bizans İmparatorluğu'na son veren Osmanlı padişahı kimdir?",
+            "options": ["I. Murad", "Yıldırım Bayezid", "II. Murad", "II. Mehmed (Fatih Sultan Mehmet)", "I. Selim (Yavuz)"],
+            "correctOptionIndex": 3,
+            "explanation": "II. Mehmed (Fatih Sultan Mehmet), 1453 yılında İstanbul'u fethederek Orta Çağ'ı kapatıp Yeni Çağ'ı açmıştır."
+        },
+        {
+            "questionText": "Yavuz Sultan Selim döneminde gerçekleştirilen 1516 Mercidabık ve 1517 Ridaniye savaşları sonucunda hangi Türk devleti son bulmuş ve halifelik Osmanlılara geçmiştir?",
+            "options": ["Akkoyunlular", "Memlukler", "Safeviler", "Karakoyunlular", "Dulkadiroğulları"],
+            "correctOptionIndex": 1,
+            "explanation": "Memluk Devleti bu savaşlarla yıkılmış, halifelik Osmanlı padişahlarına geçmiştir."
+        },
+        {
+            "questionText": "Duraklama döneminde saray kadınlarının yönetim üzerindeki etkilerini kırmak ve bütçe dengesini sağlamak amacıyla ilk kez modern anlamda denk bütçe hazırlayan sadrazam kimdir?",
+            "options": ["Sokullu Mehmet Paşa", "Köprülü Mehmed Paşa", "Merzifonlu Kara Mustafa Paşa", "Tarhuncu Ahmet Paşa", "Kuyucu Murat Paşa"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Tarhuncu Ahmet Paşa: Mali alanda ıslahatlar yaparak Osmanlı'da ilk denk bütçeyi hazırlayan sadrazamdır.",
+            "Sokullu Mehmet Paşa: Kanuni Sultan Süleyman, II. Selim ve III. Murat dönemlerinde sadrazamlık yapmış; Osmanlı'nın Yükselme döneminin simgesi, dahi devlet adamıdır. Sokullu'nun ölümüyle Duraklama Dönemi'ne geçiş süreci başlar.",
+            "Köprülü Mehmed Paşa: Duraklama döneminde saraya şartlar sunarak gelen ve Köprüler Devri'ni başlatan sadrazamdır. Köprülüler Dönemi, Duraklama Dönemi içerisinde Yükselme olarak bilinir.",
+            "Merzifoni Kara Mustafa Paşa: IV. Mehmet döneminde sadrazamlık yapmış, II. Viyana Kuşatması'nı gerçekleştiren ancak başarısızlığı nedeniyle idam edilen devlet adamıdır.",
+            "Kuyucu Murat Paşa: (XVII.yy) I. Ahmet Dönemi'nde sadrazamlık yapmış, Celâli İsyanlarını çok sert ve kanlı tedbirlerle bastırmasıyla tanınan devlet adamıdır."]
+        },
+        {
+            "questionText": "Gerileme döneminde Osmanlı Devleti'nin Lale Devri ile birlikte Batı' nın üstünlüğünü kabul ederek ilk kez Batı tarzında ıslahatlar yaptığı dönem hangi padişah zamanını kapsar?",
+            "options": ["III. Ahmed", "I. Mahmud", "III. Selim", "I. Abdulhamid", "III. Mustafa"],
+            "correctOptionIndex": 0,
+            "explanation": "Lale Devri, III. Ahmed saltanatı ve Nevşehirli Damat İbrahim Paşa sadrazamlığında yaşanmıştır."
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde kanun üstünlüğünün kabul edildiği, padişahın yetkilerinin ilk kez kısıtlandığı ve halka padişahın yanında yönetime katılma hakkı veren ilk demokratikleşme hareketi aşağıdakilerden hangisidir?",
+            "options": ["Sened-i İttifak", "Tanzimat Fermanı", "Islahat Fermanı", "I. Meşrutiyet", "II. Meşrutiyet"],
+            "correctOptionIndex": 3,
+            "explanation": "I. Meşrutiyet'in ilanı ve Kanun-ı Esasi'nin yürürlüğe girmesiyle halk ilk kez Meclis aracılığıyla yönetime katılmıştır."
+        }
+        ]
+    },
+
+    {
+        "testId": 2,
+        "testName": "Test 2",
+        "questions": [
+        {
+            "questionText": "İslamiyet öncesi Türk devletlerinde kurultay (toy); siyasi, askeri ve ekonomik kararların alındığı meclis niteliğindedir. Aşağıdakilerden hangisi Kurultay'ın özelliklerinden biri değildir?",
+            "options": [
+            "Hakanın başkanlık etmesi",
+            "Üyelerine 'toygun' denilmesi",
+            "Hatun'un toplantılara katılabilmesi",
+            "Üyelerinin doğrudan halk tarafından seçilmesi",
+            "Hükümdarın tahttan indirilmesinde etkili olabilmesi"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Kurultay üyeleri (toygunlar) halk tarafından seçilmez; boy beyleri, komutan ve önde gelen hanedan üyelerinden oluşur.",
+            "Kurultaya doğrudan Kağan / Hakan başkanlık eder.",
+            "Kurultay toplantılarına katılan kişilere 'toygun' adı verilir. Kurultay'da toygunların oturma düzeni, protokolü bulunur. Buna da 'orun' denir.",
+            "Kağanın eşi Hatun da mecliste söz sahibi olup toplantılara katılabilirdi.",
+            "Kut anlayışına göre yetersiz bulunan kağanların değiştirilmesinde Kurultay'ın etkisi olabilirdi."]
+        },
+        {
+            "questionText": "Karahanlılar, Orta Asya'da kurulan ilk Müslüman Türk devleti olup İslamiyet'i resmî din olarak kabul etmişlerdir. Karahanlıların bu özelliğinin yanı sıra aşağıdaki alanların hangisinde Türk kültürel özelliklerini en uzun süre korudukları söylenebilir?",
+            "options": ["Yazı ve alfabe", "Askeri teşkilat", "Ticaret yolları", "Mimari yapılar", "Yönetim merkezi"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Karahanlılar İslamiyet'i kabul etmelerine rağmen ulusçu bir politika izlemişler ve Uygur alfabesini kullanmaya devam ederek milli benliklerini ve dillerini korumuşlardır.",
+            "İslamî dönemde Gulam sistemi gibi unsurlar girse de, özde Türk askerî gelenekleri sürmüştür ancak en bariz ulusal korunma dil ve yazıdadır.",
+            "Bölgesel ticaret ağları dönemin şartlarına göre şekillenmiştir.",
+            "İslâm mimarisiyle Türk çadır kültürü sentezlenmiştir.",
+            "Karahanlılar birden çok merkezde (Balasagun, Kaşgar, Ötüken, Semerkant) hüküm sürmüştür. O.Asya (Türkistan ve Mâverâünnehir bölgeleri)'da hüküm sürmüştür." ]
+        },
+        {
+            "questionText": "Türkiye Selçuklu Devleti döneminde; ticaretin gelişmesi amacıyla kervansaraylar yapılmış, yabancı tüccarlara gümrük kolaylıkları sağlanmış ve sigorta sistemi uygulanmıştır. Bu politikaların temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+            "Ülkeyi teokratik bir yapıya kavuşturmak",
+            "Uluslararası ticaretin merkezlerinden biri hâline gelmek ve ekonomiyi güçlendirmek",
+            "Tarımsal üretimi artırmak",
+            "Askeri harcamaları tamamen durdurmak",
+            "Sadece yerli tüccarları korumak" ],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Ülkeyi teokratik bir yapıya kavuşturmak: Ticari önlemlerin teokratik rejimle doğrudan bir bağı yoktur.",
+            "Tarımsal üretimi artırmak: Kervansaraylar ticaret içindir, tarım alanı değildir.",
+            "Askerî harcamaları tamamen durdurmak: Aksine güvenliğin sağlanması için askerî harcamalar ve kaleler desteklenmiştir.",
+            "Sadece yerli tüccarları korumak: Yabancı tüccarlara da gümrük kolaylıkları ve sigorta sağlanmıştır." ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde Kuruluş döneminde görülen aşağıdaki gelişmelerden hangisi, devletin kısa sürede büyümesinde diğerlerine oranla daha doğrudan bir etki yapmıştır?",
+            "options": [
+            "Ahilerin desteğinin alınması",
+            "Merkezi otoritenin güçlü tutulması",
+            "Bizans ve Balkanlardaki siyasî istikrarsızlık (tekfurların durumu) ve hoşgörü (istimâlet) politikası",
+            "Tımar sisteminin uygulanmaya başlanması",
+            "Divan-i Hümayun'un kurulması"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Bizans'ın zayıf ve parçalanmış olması ile Osmanlı'nın Balkanlarda uyguladığı hoşgörü ve adalet politikası, fetihlerin hızlanmasında en önemli dış etkendir.",
+            "Ekonomik ve askerî güç katmıştır ancak en temel dış yayılma zemini, Balkanların durumudur.",
+            "Merkezi otoritenin güçlü tutulması: İç istikrarı sağlar.",
+            "Tımar sistemi: Toprak yönetiminin temelidir.",
+            "Divan-ı Hümayun: Devletin yönetim organıdır."]
+        },
+        {
+            "questionText": "Fatih Sultan Mehmet, İstanbul'u fethettikten sonra hem Doğu Roma İmparatorluğu'nun mirasına sahip çıkmış hem de ekonomik ve askerî stratejileri benimsemiştir. Aşağıdakilerden hangisi, Fatih Sultan Mehmet döneminde gerçekleştirilen askerî veya siyasî olaylardan biri değildir?",
+            "options": [
+            "Trabzon Rum İmparatorluğu'na son verilmesi",
+            "Amasra, Sinop ve Kırım'ın alınarak Karadeniz'in Türk gölü haline gelmesi",
+            "Otlukbeli Savaşı ile Akkoyunluların yengiye uğratılması",
+            "Turnadağ Savaşı ile Dulkadiroğulları Beyliği'ne son verilmesi",
+            "Belgrad'ın kuşatılması"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Turnadağ Savaşı, I. Selim (Yavuz Sultan Selim) döneminde gerçekleşmiş, Dulkadiroğulları Beyliği'ne son verilmiş ve Anadolu Türk Siyasi Birliği kesin olarak sağlanmıştır.",
+            "Osmanlı'ya en son katılan beylik olarak Ramazanoğulları Beyliği de bilinmektedir. Ramazanoğulları Beyliği ile ilgili durum biraz farklıdır. ATSB'yi kesin olarak sağlayan, Turnadağ Savaşı'dır.",
+            "Eğer Osmanlı'ya katılan son beylik bilgisi sorgulanırsa, seçeneklerde varsa kronolojik olarak Ramazanoğulları Beyliği de akla gelebilir, ATSB. bilgisi ile birlikte sorgulanırsa Dulkadiroğulları Beyliği akla gelmelidir.",
+            "Trabzon Rum İmparatorluğu'na son verilmesi, Fatih dönemidir.",
+            "II.Mehmet (Fatih) döneminde Kırım'ın alınması ile Karadeniz, Türk gölü olmuştur.",
+            "Otlukbeli Savaşı, Fatih döneminde Akkoyunlulara karşı yapılmıştır.",
+            "II.Mehmet(Fatih) dönemi; karalarda kuşatılıp da alınamayan tek yer Belgrad, denizlerde ise Rodos'tur. 2.Mehmet'in tamamlayıcısı olarak bilinen I.Süleyman(Kanuni) döneminde buralar alınacaktır."]
+        },
+        {
+            "questionText": "Kanuni Sultan Süleyman dönemi, Osmanlı Devleti'nin en parlak dönemlerinden biridir. Bu dönemde hem Batı'da hem Doğu'da önemli fetihler yapılmıştır. Aşağıdakilerden hangisi Kanuni Sultan Süleyman döneminde yaşanan gelişmelerden biri değildir?",
+            "options": [
+            "Mohaç Meydan Muharebesi ile Macaristan'ın alınması",
+            "Rodos'un fethedilmesi",
+            "Safeviler ile ilk resmî antlaşma olan Amasya Antlaşması'nın imzalanması",
+            "Preveze Deniz Savaşı ile Akdeniz'in Türk gölü haline gelmesi",
+            "Çaldıran Savaşı ile Safevi Devleti'nin yenilgiye uğratılması"],
+            "correctOptionIndex": 4,
+            "explanation": [
+            "Çaldıran Savaşı, I. Selim (Yavuz) döneminde Şii'liği yaymaya çalışan Şah İsmail'in önderliğindeki Safevilerle yapılmıştır. Kanuni dönemi değildir.",
+            "Mohaç Meydan Muharebesi: Kanuni döneminin en kısa süren ve Macaristan'ın ele geçirildiği savaştır.",
+            "Rodos'un fethedilmesi: Kanuni döneminde St. Jean şövalyelerinden alınmıştır.",
+            "Amasya Antlaşması: Kanuni Sultan I.Süleyman döneminde Safevilerle yapılan ilk resmî antlaşmadır.",
+            "Preveze Deniz Savaşı: Barbaros Hayreddin Paşa ile Haçlılara karşı kazanılan zafer neticesinde Akdeniz bir Türk gölü hâline gelmiştir."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 17. yüzyılda (Duraklama Dönemi) yaşanan iç isyanlar arasında yer alan ve saray muhafızları ile İstanbul'da ayaklanan askerlerin çıkardığı isyanlar grubu aşağıdakilerden hangisidir?",
+            "options": ["Celali İsyanları", "Suhte İsyanları", "İstanbul (Merkez / Yeniçeri) İsyanları", "Eyalet İsyanları", "Bab-ı Ali Baskını"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "İstanbul (Merkez / Yeniçeri) İsyanları: Doğrudan Yeniçeriler ve Kapıkulu ocakları tarafından saray çevresinde çıkarılan merkez isyanlarıdır.",
+            "Celali İsyanları: Anadolu'da çıkan ekonomik ve sosyal kökenli isyanlardır.",
+            "Suhte İsyanları: Medrese öğrencilerinin çıkardığı isyanlardır.",
+            "Eyalet İsyanları: Merkeze uzak eyalet yöneticilerinin çıkardığı ayaklanmalardır.",
+            "Bab-ı Ali Baskını: XX. yüzyılda (İttihat ve Terakki dönemi) yapılan hükümet darbesidir."]
+        },
+        {
+            "questionText": "Osmanlı Devleti, 1699 Karlofça Antlaşması ile tarihte ilk defa büyük ölçüde toprak kaybetmiştir. Karlofça Antlaşması'nda Osmanlı Devleti'ne karşı yer alan devletler arasında aşağıdakilerden hangisi yoktur?",
+            "options": [
+            "Venedik", "Avusturya", "Lehistan", "Fransa", "Rusya"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Kutsal İttifat Devletleri'ni kısaca VARiLiM olarak kodlayabiliriz. Venedik, Avusturya, Rusya, Lehistan, Malta",
+            "Osmanlı Devleti ile antlaşma masasına oturan devletleri 'LAV' olarak kodlarız. Lehistan, Avusturya ve Venedik",
+            "Kutsal İttifak'a destek veren resmî devletlerden biri olan Malta, antlaşma masasında yoktur. Herhangi bir toprak da kazanmamıştır.",
+            "Rusya'nın Karlofça'da imzası yoktur, Rusya ile yaklaşık 1 yıl sonra 1700 - İstanbul Antlaşması yapılacaktır.",
+            "Karlofça Antlaşması'na katılan Haçlı koalisyonunda; Avusturya, Venedik, Lehistan vb. arasında Fransa yer almaz, aksine Fransa, Osmanlı'ya arabuluculuk desteği vermiştir.",
+            "1699 Karlofça Antlaşması'ndan sonra Osmanlı Devleti Gerileme Dönemi'ne girecektir."]
+        },
+        {
+            "questionText": "18. yüzyılda (Gerileme Dönemi) Osmanlı Devleti, kaybettiği toprakları geri almak ve Avrupalı devletlerin üstünlüğünü kabul ederek ıslahatlar yapmak zorunda kalmıştır. Aşağıdakilerden hangisi Lale Devri (1718-1730) yenilikleri arasında yer almaz?",
+            "options": [
+            "İlk özel matbaanın kurulması",
+            "İlk defa Batı tarzı askerî okulun (Hendesehane'nin) açılması",
+            "Çiçek aşısının uygulanması",
+            "İstanbul'da kağıt fabrikasının kurulması",
+            "Avrupa'dak siyasî gelişmeleri yakından takip etmek amacıyla ilk defa geçici elçiliklerin açılması"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "1718-1730 Lale Devri, III.Ahmet dönemindedir. Lale Devri'nde batı tarzı askerî ıslahat yoktur. Sosyokültürel alanda ıslahatlar vardır.",
+            "Hendesehane: I.Mahmut döneminde, Avrupa'dan getirilen uzman Comte de Bonneval (Humbaracı Ahmet Paşa) tarafından kurulan Batı tarzındaki ilk askerî ve teknik eğitim kurumudur.",
+            "1729 - İlk Özel Matbaa: İbrahim Müteferrika ve Said Efendi tarafından Lale Devri'nde kurulmuştur. Burada basılan ilk eser; Vani Mehmet Efendi'nin, Van Kulu Lügatı'dır.",
+            "Çiçek aşısı, bu dönemde ilk kez uygulanmıştır.",
+            "Lale Devri'nin ünlü sadrazamı Nevşehirli Damat İbrahim Paşa, dönemin ünlü minyatürcüsü Levni, dönemin ünlü edebiyatçısı ise Nedim'dir.",
+            "Lale Devri'nde Paris'e gönderilen ilk geçici elçi olan Yirmisekiz Mehmed Çelebi'nin, Fransa'daki gözlemlerini ve izlenimlerini aktardığı Sefâretnâme'si ünlüdür."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 19. yüzyılda ilân edilen Tanzimat Fermanı (1839) ile din, ırk ve mezhep farkı gözetilmeksizin tüm vatandaşların can, mal ve namus güvenliği devlet güvencesine alınmıştır. Tanzimat Fermanı'nın bu hükmüyle aşağıdakilerden hangisinin amaçlandığı söylenebilir?",
+            "options": [
+            "Saltanat sistemine son vermek",
+            "Gayrimüslimlerin Osmanlı'dan ayrılmasını önlemek ve azınlık haklarını güvenceye alarak Avrupalı devletlerin iç işlerimize karışmasını engellemek",
+            "Laik hukuk sistemine geçmek",
+            "Padişahın yetkilerini anayasa ile sınırlamak",
+            "Doğrudan cumhuriyet rejimine geçiş hazırlığı yapmak"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Temel amaç, 1789 Fransız İhtilâli'nden sonra yayılan milliyetçilik akımının etkilerini kırmak ve dış müdahaleleri önlemektir.",
+            "XIX. yy.da Saltanat sistemine son verilmemiştir. 1 Kasım 1922'de Saltanatın Kaldırılması ile Osmanlı Devleti resmen sona erecektir.",
+            "Tanzimat Fermanı ile laik hukuk sistemine geçilmedi. Hukuk yine şerî ve iradi temelde kalmıştır.",
+            "Anayasal düzene 1876'da Kanun-i Esasi ile geçilmiştir.",
+            "Cumhuriyet rejimine geçiş, 19. yüzyıl şartlarında söz konusu değildir. Osmanlı Devleti'nde Cumhuriyet ilân edilmedi. Yeni Türk Devleti kurulduktan sonra, 29 Ekim 1923'te ilân edildi."]
+        },
+        {
+            "questionText": "İlk Türk devletlerinde 'Töre' adı verilen yazısız hukuk kuralları bulunmaktaydı. Töre'nin değişmez kurallarına 'Küşlük' denirdi. Aşağıdakilerden hangisi Töre'nin değişmez ilkeleri arasında gösterilemez?",
+            "options": ["Adalet - Könilik", "İyilik - Uzluk", "Eşitlik - Tüzlük", "Kişilik - İnsanlık", "Zenginlik - Kavim"],
+            "correctOptionIndex": 4,
+            "explanation": [
+            "Könilik - Adalet: Töre'nin temel direğidir.",
+            "Uzluk - İyilik/Faydalık: Halkın iyiliğini gözetmek esastır.",
+            "Tüzlük - Eşitlik: Kanun önünde herkesin eşit olmasını ifade eder.",
+            "Kişilik - İnsanlık: Toplumsal dayanışma ve insan onurunu koruma ilkesidir.",
+            "Zenginlik - Kavim: Töre'nin temel değişmez ilkeleri arasında ekonomik bir kavram olan zenginlik yer almaz."]
+        },
+        {
+            "questionText": "Büyük Selçuklu Devleti'nde meliklerin eğitimiyle görevlendirilen ve onlarla birlikte eyaletlere gönderilen tecrübeli devlet adamı aşağıdakilerden hangisidir?",
+            "options": ["Subaşı", "Atabey", "Şıhne", "Kadı", "Amid"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Atabey: Meliklerin eğitiminde görevli olan ve taşra yönetiminde meliklere rehberlik eden tecrübeli devlet adamıdır. Osmanlı'daki karşılığı Lala'dır.",
+            "Subaşı: Ordu ve güvenlik işlerinden sorumludur.",
+            "Şıhne: Askeri vali / güvenlik amiridir.",
+            "Kadı: Yargı işlerine bakar.",
+            "Amid: Sivil idari yöneticidir."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde taşra teşkilatında en küçük idari birim olan köyün yöneticisine ne ad verilirdi?",
+            "options": ["Subaşı", "Kadı", "Muhtar", "Kethüda (Köy Kethüdası)", "Voyvoda"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Kethüda (Köy Kethüdası): Klasik dönem Osmanlı taşra teşkilatında köy yönetiminden sorumlu kişidir.",
+            "Subaşı: Sancak veya kazalarda güvenliği sağlar.",
+            "Kadı: Kazaları yönetir, yargı kararı alır.",
+            "Muhtar: Tanzimat sonrasında taşra teşkilatına girmiştir.",
+            "Voyvoda: Eflak-Boğdan gibi özel statülü bölgelerin yöneticisidir."]
+        },
+        {
+            "questionText": "Yavuz Sultan I.Selim döneminde gerçekleştirilen Ridaniye Savaşı (1517) sonrasında Halifelik Osmanlı padişahına geçmiştir. Bu savaşın yapıldığı devlet aşağıdakilerden hangisidir?",
+            "options": ["Akkoyunlular", "Safeviler", "Memlükler", "Dulkadiroğulları", "Karakoyunlular"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Memlükler(Kölemenler)(Devlet'üt Türkiyye): Ridaniye Savaşı, Osmanlı Devleti ile Mısır merkezli Memlük Devleti arasında yapılmış ve Memlükler ortadan kaldırılmıştır.",
+            "Akkoyunlular: 1473 Otlukbeli Savaşı'nda II.Mehmet(Fatih Sultan Mehmet) döneminde mağlup edilmiştir. 16.yy.ın başlarında Safeviler tarafından ortadan kaldırılmıştır.",
+            "I.Selim(Yavuz) Dönemi, Doğu sınırını güvence altına almak amacıyla Safeviler ile Çaldıran Savaşı (1514) yapılmıştır.",
+            "Dulkadiroğulları: I. Selim dönemi Turnadağ Savaşı(1515) ile Osmanlı'ya bağlanmıştır.(Anadolu Türk Siyasi Birliği kesin olarak sağlandı)",
+            "Karakoyunlular: Karakoyunlular, Akkoyunlular tarafından yıkılmıştır."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 18. yüzyılda askerî alanda ilk kez Batı tarzı ıslahatlar yapan ve 'Humbaracı Ahmet Paşa' gibi uzmanlardan yararlanan padişah kimdir?",
+            "options": ["I. Mahmud", "III. Ahmet", "III. Selim", "II. Mahmud", "Abdülmecit"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "I. Mahmud: 18. yüzyılda askeri alanda Batı tarzı ilk ıslahatları yapan ve Humbaracı Ocağı'nı ıslah eden padişahtır.",
+            "III. Ahmet: Lale Devri padişahıdır.",
+            "III. Selim: Nizam-ı Cedit ıslahatlarını yapmıştır.",
+            "II. Mahmud: Yeniçeri Ocağı'nı kaldırmıştır.",
+            "Abdülmecit: Tanzimat dönemi padişahıdır. Tanzimat ve ıslahat Fermanları bu dönemdedir."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 19. yüzyılda padişahın yetkilerini ilk kez kısıtlayan ve Türk tarihinde parlamenter sistemi başlatan gelişme aşağıdakilerden hangisidir?",
+            "options": [
+            "1808 - Sened-i İttifak'ın imzalanması",
+            "1839 - Tanzimat Fermanı'nın ilan edilmesi",
+            "1856 - Islahat Fermanı'nın ilan edilmesi",
+            "1876 - Kanun-i Esasi'nin kabul edilmesi ve I. Meşrutiyet'in ilanı",
+            "1908 - II. Meşrutiyet'in ilan edilmesi"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Kanun-i Esasi'nin kabul edilmesi ve I. Meşrutiyet'in ilanı ile ilk kez bir anayasa yapılmış ve halkın yönetime katılmasıyla parlamenter sistem başlamıştır.",
+            "Sened-i İttifak: Padişah II.Mahmut ile Ayanlar arasında yapılan ve padişahın yetkilerini ilk kez kısıtlayan, ayanların varlığını resmen tanıyan belgedir.",
+            "Tanzimat Fermanı: Hukuk üstünlüğü getirilmiştir. Padişahın yetkileri ilk kez hukuken kısıtlanmıştır. Sultan Abdülmecid doğrudan kendi iradesi ile yetkilerini kısıtlamıştır.",
+            "Islahat Fermanı, gayrimüslim tebaaya Müslümanlarla eşit haklar (özellikle dini, kültürel ve ekonomik alanlarda) vermek amacıyla yayınlanan ve içeriği büyük ölçüde yabancı devletlerin (İngiltere, Fransa) baskısıyla hazırlanan belgedir.",
+            "II. Meşrutiyet: 1878'de II. Abdülhamid tarafından 93 Harbi bahanesiyle askıya alınan Kanûn-ı Esâsî'nin ve parlamenter rejimin yeniden yürürlüğe konulması sürecidir"]
+        },
+        {
+            "questionText": "İslamiyet öncesi Türk sanatında hayvan üslubu ön planda olup çadır, halı ve kilim gibi taşınabilir sanat eserleri yaygındır. Bu durumun temel sebebi nedir?",
+            "options": [
+            "Yerleşik hayata geçilmemiş olması",
+            "Maden işlemeciliğinin bilinmemesi",
+            "Çömlek yapımının yasak olması",
+            "Ticaretin gelişmemiş olması",
+            "Dini kuralların resim yapmayı yasaklaması"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Türklerin göçebe (konargöçer) yaşam tarzına sahip olması, sanat eserlerinin taşınabilir malzemelerden yapılmasını zorunlu kılmıştır.",
+            "Maden işlemeciliği: Aksine maden işleme sanatında çok ileri gitmişlerdir.",
+            "Dînî kurallar: İslâm öncesi dönemde resim/heykel yasağı bulunmuyordu."]
+        },
+        {
+            "questionText": "Anadolu'da kurulan ilk Türk-İslâm beyliklerinden biri olan ve merkezi Erzurum olan, Mama Hatun Kümbeti ile ünlü beylik aşağıdakilerden hangisidir?",
+            "options": ["Danişmentliler", "Saltuklular", "Mengücekler", "Artuklular", "Çaka Beyliği"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Saltuklular: Erzurum ve çevresinde kurulan ilk Türk beyliğidir; Mama Hatun Kümbeti, Kale Camii, Tepsi Minare ile ünlüdür.",
+            "Danişmentliler: Sivas merkezlidir. Sivas, Tokat, Kayseri dolaylarında egemen olmuştur.I.Beylikler arasında en güçlü beyliktir.",
+            " Kendi adına para bastırmıştır. Danişment Beyliği'nin ünlü medresesi Tokat/Niksar'da inşa edilen Yağıbasan Medresesi'dir. Anadolu Türk tarihinde açılan ilk medresedir.",
+            "Mengücekler: Erzincan- Kemah - Divriği merkezlidir. Divriği Ulu Camii ve Darüşşifası, Ahmet Şah ve Turan Melik tarafından Sivas Divriği'de inşa edilmiştir.",
+            "Divriği Ulu Camii ve Darüşşifası, 1985 yılında Türkiye'nin UNESCO Dünya Miras Listesi'ne giren ilk mimari eserdir.",
+            "Artuklular: Hasankeyf - Mardin - Harput(Elazığ) olarak üç ana kol hâlindedir. Malabadi Köprüsü, Mardin Ulu Cami, Zinciriye Medresesi ünlüdür.",
+            "Artuklular döneminin ünlü bilgini El - Cezerî, robotik bilimi olan Sibernetiğin kurucusu olarak bilinir.",
+            "Çaka Beyliği - 1081: İzmir merkezli denizci beyliktir. Peçenekler ile birlikte İstanbul'u kuşatmışlardır. 1081 yılı Türk Deniz Kuvvetleri Komutanlığı'nın kuruluş yıl dönümü olarak kutlanmaktadır."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde tımar sisteminin bozulmasıyla birlikte köylünün toprağını terk ederek şehirlere göç etmesine ve kırsal alanda asayişin bozulmasına neden olan iç isyanlar genel olarak hangi adla anılmıştır?",
+            "options": ["Celâli İsyanları", "Yeniçeri İsyanları", "Patrona Halil İsyanı", "Kabakçı Mustafa İsyanı", "Bab-ı Ali Baskını"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Celâli İsyanları: Anadolu'da 17. yüzyılda çıkan, tımar sisteminin bozulmasıyla köylünün şehre göç etmesine yol açan isyanlardır.",
+            "Yeniçeri İsyanları: İstanbul merkezli asker ayaklanmalarıdır.",
+            "Patrona Halil İsyanı: Lale Devri'ni bitiren İstanbul isyanıdır.",
+            "Kabakçı Mustafa İsyanı: Nizam-ı Cedit dönemini bitiren ve 3.Selim'i tahttan indiren isyandır.",
+            "Bab-ı Ali Baskını: I.Balkan Savaşı sırasında İttihat Terakkî'nin yönetime el koyduğu hükümet darbesidir."]
+        },
+        {
+            "questionText": "19. yüzyılda Osmanlı Devleti'nde yayımlanan Islahat Fermanı (1856) daha çok hangi kesimin haklarını genişletmeyi hedeflemiştir?",
+            "options": ["Müslüman Türk halkının", "Gayrimüslim (azınlık) vatandaşların", "Yeniçeri ocağı mensuplarının", "Saray erkânının ve bürokratların", "Medrese öğrencileri ve ulemanın"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Gayrimüslim (azınlık) vatandaşların: Islahat Fermanı tamamen gayrimüslimlerin siyasi, sosyal, dini ve ekonomik haklarını artırmayı amaçlamıştır.",
+            "Müslüman Türk halkı: Hakları zaten mevcuttu, ferman azınlıklara odaklanmıştır.",
+            "Yeniçeri ocağı: 1826'da II.Mahmut tarafından kaldırılmıştı.",
+            "Saray erkânı: Hedef kitle değildir.",
+            "Medrese öğrencileri: Islahatların kapsamı dışındadır."]
+        }
+        ]
+    },
+    {
+        "testId": 3,
+        "testName": "Test 3",
+        "questions": [
+        {
+            "questionText": "İslamiyet öncesi Türk devletlerinde ölen kişinin arkasından düzenlenen cenaze törenine ne ad verilir?",
+            "options": ["Yuğ", "Toy", "Şad", "Kurultay", "Kün"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Yuğ: Ölen kişinin ardından düzenlenen cenaze törenidir. Ahiret inancının kanıtı değildir.",
+            "Toy: Hem şölen hem de devlet işlerinin görüşüldüğü kurultay anlamlarına gelir.",
+            "Şad: Hanedan üyelerine verilen unvandır, genellikle ordu komutanlığı yaparlar.",
+            "Kurultay: Devlet işlerinin görüşülüp karara bağlandığı meclistir.",
+            "Kün: Eski Türklerde halk anlamına gelir."
+            ]
+        },
+        {
+            "questionText": "Aşağıdaki Türk-İslam devletlerinden hangisi, Abbasilere halifelik makamında baskı yapmalarına karşı koruma sağladığı için Abbasi halifesi tarafından 'Doğu'nun ve Batı'nın Sultanı' ünvanını almıştır?",
+            "options": ["Karahanlılar", "Gazneliler", "Büyük Selçuklu Devleti", "İtil Bulgarları", "Tolunoğulları"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Büyük Selçuklu Devleti(Tuğrul Bey dönemi): Abbasi halifesini Şii Büveyhoğulları baskısından kurtarmış, bunun üzerine halife Tuğrul Bey'e 'Doğu'nun ve Batı'nın Sultanı' ünvanını vermiştir.",
+            "Karahanlılar: Orta Asya'da kurulan ilk Müslüman Türk devleti olup Abbasi halifeliğiyle siyasî ilişkileri olsa da bu ünvanı almamışlardır.",
+            "Gazneliler(Yeminiler): Hindistan'a düzenledikleri seferlerle İslamiyet'i yaymışlardır.'Sultan' ünvanını kullanan ilk Türk hükümdarı Gazneli Mahmut olmuştur.",
+            "İtil(Volga)Bulgarları: İlteber Almış Han Dönemi İslamiyet'i kendi istekleriyle benimseyen ilk Türk devletidir.",
+            "Tolunoğulları: Mısır'da kurulan ilk Türk-İslam  devletidir.Abbasilerden ayrılarak kurulmuş 'tevaif-i mülük' devletlerindendir."]
+        },
+        {
+            "questionText": "Türkiye Selçuklu Devleti döneminde ticaretin canlandırılması ve geliştirilmesi amacıyla yapılan kervansaraylarda tüccarların konaklama, yemek ve sağlık ihtiyaçları belirli bir süre ücretsiz karşılanmıştır. Bu durumun temel amacı aşağıdakilerden hangisidir?",
+            "options": [
+            "Devleti teokratik bir yapıya büründürmek",
+            "Uluslararası ticaret yollarının güvenliğini ve akışını sağlayarak ülkeyi ticaret merkezi yapmak",
+            "Askeri harcamaları kısmak",
+            "Sadece yerli halkın zenginleşmesini sağlamak",
+            "Tarımsal üretimi artırmak"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Uluslararası ticaret yollarının güvenliğini ve akışını sağlayarak ülkeyi ticaret merkezi yapmak: Kervansaraylar, sigorta sistemi ve gümrük indirimleriyle birlikte tam olarak bu ekonomik amaçla kurulmuştur.",
+            "Devleti teokratik bir yapıya büründürmek: Ticaret politikalarının dinî yönetimle doğrudan bir bağı yoktur.",
+            "Askeri harcamaları kısmak: Kervansarayların inşası ve bakımı aksine devlete mali yük getiren ama stratejik olarak kazanç sağlayan yatırımlardır.",
+            "Sadece yerli halkın zenginleşmesini sağlamak: Yabancı tüccarlara da geniş imtiyazlar tanınmıştır.",
+            "Tarımsal üretimi artırmak: Tarım kervansarayların değil, toprak sisteminin (tımar) alanına girer."]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nin Kuruluş Dönemi'nde kısa sürede büyümesinde pek çok etken rol oynamıştır. Aşağıdakilerden hangisi bu büyüme nedenlerinden biri olarak gösterilemez?",
+            "options": ["Merkezi otoritenin güçlü tutulması", "Ahilerin desteğinin alınması", "Balkanlardaki siyasi istikrarsızlık", "İstimâlet (hoşgörü) politikası", "Saray kadınlarının devlet yönetimine doğrudan müdahale etmesi"],
+            "correctOptionIndex": 4,
+            "explanation": [
+            "Saray kadınlarının devlet yönetimine doğrudan müdahale etmesi: Kuruluş döneminde değil, daha çok 17. yüzyılda (Duraklama Dönemi) devlet otoritesini sarsan olumsuz bir durumdur.",
+            "Merkezi otoritenin güçlü tutulması: Osman Bey ve halefleri uç beyi olarak güçlü bir idare kurmuşlardır.",
+            "Ahilerin desteğinin alınması: Ekonomik ve askerî anlamda Ahilik teşkilatının desteği çok önemlidir.",
+            "Balkanlardaki siyasî istikrarsızlık: Bizans'ın ve Balkan devletlerinin kendi içindeki kavgaları Osmanlı'nın işini kolaylaştırmıştır.",
+            "İstimâlet (hoşgörü) politikası: Fethedilen bölgelerdeki halka adil ve hoşgörülü davranılması benimsenmelerini sağlamıştır."
+            ]
+        },
+        {
+            "questionText": "Fatih Sultan Mehmet döneminde Karadeniz'in Türk gölü haline gelmesinde ve İpek Yolu'nun kontrolünün ele geçirilmesinde etkili olan önemli gelişme aşağıdakilerden hangisidir?",
+            "options": ["Kırım'ın alınması", "Trabzon'un fethi", "Sinop'un alınması", "Amasra'nın alınması", "Otlukbeli Savaşı"],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Kırım'ın alınması: Gedik Ahmet Paşa komutasında Kırım'ın alınmasıyla Karadeniz tam anlamıyla bir Türk gölü haline gelmiş ve İpek Yolu'nun kuzey kolu Osmanlı denetimine girmiştir.",
+            "Trabzon'un fethi: Pontus Rum İmparatorluğu'na son verilerek Karadeniz ticaret yolu güvenliğe alınmıştır.",
+            "Sinop'un alınması: Candaroğulları'ndan alınarak Karadeniz kıyısındaki üsler güçlendirilmiştir.",
+            "Amasra'nın alınması: Cenevizlilerden alınan ilk yerdir.",
+            "Otlukbeli Savaşı: Akkoyunlular ile yapılmış ve Doğu Anadolu'daki Türk siyasi birliği güvenliğe alınmıştır."
+            ]
+        },
+        {
+            "questionText": "Kanuni Sultan Süleyman döneminde Osmanlı donanması ile Haçlı donanması arasında yapılan ve Akdeniz'in Türk gölü haline gelmesini sağlayan deniz savaşı aşağıdakilerden hangisidir?",
+            "options": ["İnebahtı Deniz Savaşı", "Preveze Deniz Savaşı", "Çeşme Baskını", "Navarin Baskını", "Sinop Baskını"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Preveze Deniz Savaşı(1538): Barbaros Hayrettin Paşa komutasındaki Osmanlı donanması Haçlıları yenmiş, Akdeniz Türk gölü olmuştur.",
+            "İnebahtı Deniz Savaşı: Sokullu döneminde Osmanlı donanmasının Haçlılar tarafından yakıldığı ilk yenilgidir.",
+            "Çeşme Baskını: 18. yüzyılda Rusların Osmanlı donanmasını yaktığı baskındır.",
+            "Navarin Baskını: 19. yüzyılda Yunan isyanı sırasında Osmanlı-Mısır donanmasının yakıldığı olaydır.",
+            "Sinop Baskını: Kırım Savaşı sırasında Rusların Osmanlı donanmasını yaktığı yerdir."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 17. yüzyılda (Duraklama Dönemi) görülen Celâli isyanlarının çıkmasında ekonomik ve sosyal nedenler etkili olmuştur. Aşağıdakilerden hangisi bu isyanların sonuçlarından biri değildir?",
+            "options": [
+            "Köylülerin topraklarını terk ederek şehirlere göç etmesi (Büyük Kaçgun)",
+            "Tarım ve hayvancılık üretiminin düşmesi",
+            "Anadolu'da asayiş ve güvenliğin bozulması",
+            "Rejim değiştirmek amacıyla saltanatın kaldırılması",
+            "Köylerden şehirlere göç nedeniyle 'üretimde sürekliliğin' aksaması"
+            ],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Rejim değiştirmek amacıyla saltanatın kaldırılması: Celâli isyanları; ekonomik, idari ve sosyal bozulmalardan kaynaklanan yerel isyanlardır, rejimi ya da saltanatı değiştirmeyi amaçlamamışlardır.",
+            "Köylülerin topraklarını terk ederek şehirlere göç etmesi: Büyük Kaçgun hareketi yaşanmıştır.",
+            "Tarım ve hayvancılık üretiminin düşmesi: Güvenlik kalmadığı için üretim azalmıştır.",
+            "Anadolu'da asayiş ve güvenliğin bozulması: Can ve mal güvenliği kalmamıştır.",
+            "Üretimde sürekliliğin aksaması: Ekonomi büyük darbe almıştır."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nin 1699 Karlofça Antlaşması ile ilk kez büyük ölçüde toprak kaybetmesi hangi dönemin kapanıp hangi dönemin başlamasına yol açmıştır?",
+            "options": [
+            "Kuruluş'tan Yükselme'ye geçiş",
+            "Duraklama Dönemi'nin kapanıp Gerileme Dönemi'nin başlaması",
+            "Gerileme'den Dağılma'ya geçiş",
+            "Yükselme'den Duraklama'ya geçiş",
+            "Meşrutiyet'in ilan edilmesi"
+            ],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Karlofça ve İstanbul antlaşmalarıyla toprak kaybetme sürecine giren Osmanlı, savunmaya çekilmiş ve Gerileme dönemi başlamıştır.",
+            "Kuruluş'tan Yükselme'ye geçiş: İstanbul'un fethiyle ilgilidir.",
+            "Gerileme'den Dağılma'ya geçiş: Genellikle Fransız İhtilali ve 19. yüzyıl başı olarak kabul edilir.",
+            "Yükselme'den Duraklama'ya geçiş: 1595 Sokullu'nun ölümü veya 17. yüzyıl başı olarak kabul edilir.",
+            "Meşrutiyet'in ilan edilmesi: 19. yüzyılın sonlarına ait bir gelişmedir."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde Lale Devri (1718-1730) yenilikleri arasında aşağıdakilerden hangisi yer almaz?",
+            "options": [
+            "İbrahim Müteferrika ve Said Efendi tarafından ilk özel matbaanın kurulması",
+            "Çiçek aşısının ilk kez uygulanması",
+            "İlk defa Batı tarzı askeri okul olan Hendesehane'nin açılması",
+            "Yalova'da kağıt fabrikasının kurulması",
+            "İstanbul'da 'Tulumbacılar Ocağı' adıyla ilk kez profesyonel itfaiye teşkilatının kurulması"
+            ],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Hendesehane: I.Mahmud döneminde açılmış, batı tarzı ilk askerî mühendislik okuludur. Lale Devri yeniliği değildir.",
+            "İlk özel matbaa: İbrahim Müteferrika ve Said Efendi tarafından Lale Devri'nde kurulmuştur.",
+            "Çiçek aşısı: Lale Devri'nde uygulamaya konulmuştur.",
+            "Yalova kağıt fabrikası: Matbaaya kağıt yetiştirmek için Lale Devri'nde açılmıştır.",
+            "Lale Devri'nde ilk kurulan Tulmbacılar Ocağı, Yeniçeriler'e bağlı olarak kurulmuştur. Yeniçerilerden seçilmesine karşın askerî değil; sosyal, sivil bir kurumdur."
+            ]
+        },
+        {
+            "questionText": "19. yüzyılda ilân edilen Tanzimat Fermanı (Gülhane-i Hattı Hümayun) ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+            "options": [
+            "Padişah Abdülmecit döneminde ilan edilmiştir.",
+            "Mustafa Reşid Paşa tarafından okunmuştur.",
+            "Padişahın yetkileri ilk kez bir anayasa ile tamamen kısıtlanmıştır.",
+            "Tüm vatandaşların can, mal ve namus güvenliği kanun güvencesine alınmıştır.",
+            "Askerlik vatan hizmeti haline getirilmiştir."
+            ],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Padişahın yetkileri ilk kez bir anayasa ile kısıtlandığı ifadesi yanlıştır.Tanzimat Fermanı bir anayasa değildir.",
+            "Tanzimat Fermanı, padişahın kendi iradesiyle yetkilerini kanun gücüyle kısıtladığı bir fermandır.",
+            "Ferman Abdülmecit zamanında ilân edilmiştir. Anayasa ile kısıtlanma ise Kanun-i Esasi (I. Meşrutiyet) ile gerçekleşmiştir",
+            "Mustafa Reşid Paşa: Hariciye Nazırı Mustafa Reşid Paşa, Hattı Hûmayun'u Gülhane Parkı'nda okumuştur.",
+            "Can ve mal güvenliği: Temel haklar güvenceye bağlanmıştır.",
+            "Vatan hizmeti: Askerlik tüm Osmanlı vatandaşları için zorunlu hale getirilmiştir."]
+        },
+        {
+            "questionText": "İslamiyet öncesi Türk devletlerinde devletin başındaki hükümdara verilen ünvanlar arasında aşağıdakilerden hangisi yer almaz?",
+            "options": ["Kağan", "Han", "Yabgu", "Hatun", "İltéber"],
+            "correctOptionIndex": 3,
+            "explanation": [
+            "Hatun: Hükümdarın eşine verilen unvandır, devlet yönetiminde söz sahibidir ancak hükümdar ünvanı değildir.",
+            "Kağan / Han: Devletin başındaki en üst düzey liderlere verilen unvanlardır.",
+            "Yabgu: Genellikle ikili teşkilatta batı kanadını yöneten hanedan üyesi veya hükümdar yardımcısına denir.",
+            "İltéber: Erken dönem Türk topluluklarında boy beylerine veya dış işleri görevlilerine verilen ünvanlardandır."
+            ]
+        },
+        {
+            "questionText": "Anadolu'da kurulan ilk Türk beyliklerinden biri olan ve Malazgirt Savaşı sonrasında Erzincan, Divriği, Kemah çevresinde faaliyet gösteren, Divriği Ulu Camii ile bilinen beylik aşağıdakilerden hangisidir?",
+            "options": ["Saltuklular", "Mengücekler", "Danişmentliler", "Artuklular", "Çaka Beyliği"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Mengücekler: Erzincan, Divriği ve Kemah civarında kurulmuş, UNESCO Dünya Mirası listesinde yer alan Divriği Ulu Camii ile ünlüdür.",
+            "Saltuklular: Erzurum ve çevresinde kurulan ilk Türk beyliğidir.",
+            "Danişmentliler: Sivas, Tokat, Niksar çevresinde kurulan ve ilk beyliklerin en güçlüsüdür.",
+            "Artuklular: Mardin, Hasankeyf, Harput çevresinde kurulmuştur.Malabadi Köprüsü,Hatuniye Medresesi,Zinciriye Medresesi eserlerinden bazılarıdır.",
+            "Çaka Beyliği: 1081'de İzmir ve çevresinde kurulan ilk Türk denizci beyliğidir.Kuruluş tarihi günümüzde Deniz Kuvvetleri Komutanlığı'nın kuruluş yıl dönümü olarak kutlanmaktadır."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde divan üyelerinden biri olan ve nişancıya bağlı olarak çalışıp tapu-tahrir defterlerini tutan, fethedilen arazilerin tescilini yapan görevli kimdir?",
+            "options": ["Kazasker", "Defterdar", "Kâtip (Tımar Kâtibi / Divan Kâtibi)", "Nişancı", "Şeyhülislam"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Kâtip (Divan Kâtibi / Nişancı yardımcısı): Tapu-tahrir defterlerini tutan ve bürokratik işleri yürüten görevlidir.",
+            "Kazasker: Adalet ve eğitim işlerinden sorumlu, kadı ve müderris atamalarını yapan divan üyesidir.",
+            "Defterdar: Maliye ve bütçe işlerinden sorumludur.",
+            "Nişancı: Padişahın tuğrasını çeker, tahrir defterlerini kontrol eder ve dirliklerin dağıtımını yapar.",
+            "Şeyhülislam: (İfta)Fetva makamıdır, kararların dine uygunluğunu denetler."
+            ]
+        },
+        {
+            "questionText": "Yavuz Sultan Selim döneminde Safeviler ile yapılan ve Doğu Anadolu'nun güvenliğinin sağlanmasında dönüm noktası olan savaş aşağıdakilerden hangisidir?",
+            "options": ["Otlukbeli Savaşı", "Çaldıran Savaşı", "Mercidabık Savaşı", "Ridaniye Savaşı", "Varna Savaşı"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Çaldıran Savaşı (1514): Yavuz Sultan Selim ile Şah İsmail arasında yapılmış, Safevi devleti yenilgiye uğratılmış ve Doğu Anadolu Osmanlı kontrolüne geçmiştir.",
+            "Otlukbeli Savaşı: Fatih döneminde Akkoyunlular ile yapılmıştır.",
+            "Mercidabık Savaşı: Yavuz döneminde Memlükler ile yapılmış (Suriye kapıları açılmıştır).",
+            "Ridaniye Savaşı: Yavuz döneminde Memlükler yıkılmış ve Mısır fethedilmiştir.",
+            "Varna Savaşı: II. Murat döneminde Haçlılarla yapılan kuruluş/yükselme geçiş savaşıdır."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 18. yüzyılda (Gerileme Dönemi) Rusya ile imzalanan ve Kırım'ın bağımsız olmasıyla Osmanlıların ilk kez halkı müslüman olan bir toprağı kaybettiği antlaşma aşağıdakilerden hangisidir?",
+            "options": ["Karlofça Antlaşvası", "Pasarofça Antlaşması", "Küçük Kaynarca Antlaşması", "Belgrad Antlaşması", "Aynalıkavak Tenkihnamesi"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Küçük Kaynarca Antlaşması (1774): Rusya ile imzalanmış; Kırım bağımsız olmuştur. Böylece ilk defa halkı Müslüman olan bir toprak kaybedilmiş ve Ruslara kapitülasyonlar verilmiştir.",
+            "Karlofça Antlaşması: 17. yüzyıl sonunda imzalanan büyük toprak kaybıdır.",
+            "Pasarofça Antlaşması: Lale Devri'nin başlangıcı olan antlaşmadır.",
+            "Belgrad Antlaşması: 18. yüzyılda kazançlı çıkılan son büyük antlaşmadır.",
+            "Aynalıkavak Tenkihnamesi: Kırım'ın iç işlerine müdahaleyle ilgili Rusya ile yapılan düzenlemedir. Rusya, Kırım üzerindeki nüfuzunu(etkisini)arttırmıştır."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde 19. yüzyılda ilân edilen Kanun-i Esasi ile kurulan çift meclisli parlamenter sistemde halkın seçtiği üyelerden oluşan meclis aşağıdakilerden hangisidir?",
+            "options": ["Ayan Meclisi", "Mebusan Meclisi", "Divan-ı Hümayun", "Meclis-i Vükelâ", "Kurultay"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Mebusan Meclisi (Meclis-i Mebusan): Kanun-i Esasi ile açılan, üyeleri halk tarafından seçilen parlamenter meclistir.",
+            "Ayan Meclisi: Üyeleri padişah tarafından ömür boyu seçilen üst meclistir.",
+            "Divan-ı Hümayun: Klasik dönem Osmanlı yönetim meclisidir.",
+            "Kurultay: İslamiyet öncesi Türk meclisidir.",
+            "Meclis-i Vükelâ: Osmanlı Devleti'nde padişah tarafından atanan nazırlardan (bakanlardan) oluşan hükümet (Bakanlar Kurulu) yapısıdır. Yürütme organıdır."
+            ]
+        },
+        {
+            "questionText": "Karahanlılar, İslamiyet'i resmi din olarak kabul etmelerine rağmen millî kimliklerini ve dillerini korumuşlardır. Aşağıdakilerden hangisi Karahanlıların bu milli karakterini gösteren en somut kanıtlardan biridir?",
+            "options": [
+            "Resmî yazışmalarda Arapça yerine Türkçe kullanmaları ve Uygur alfabesini sürdürmeleri",
+            "Sarayda Farsça konuşulmasını yasaklamaları",
+            "Yalnızca Gazneliler ile askeri ittifak yapmaları",
+            "İslâmiyet'i tamamen reddedip Şamanizme dönmeleri",
+            "Mimari eserlerde hiç kubbe kullanmamaları"
+            ],
+            "correctOptionIndex": 0,
+            "explanation": [
+            "Resmi yazışmalarda Arapça yerine Türkçe kullanmaları ve Uygur alfabesini sürdürmeleri: Karahanlılar milliyetçi bir politika izlemiş, Türkçeyi resmî dil ilan etmiş ve edebi eserlerde (Kutadgu Bilig vb.) Türkçe kullanmışlardır.",
+            "Sarayda Farsça yasaklanmamıştır, aksine edebi dilde Farsça da etkisini göstermiştir.",
+            "Yalnızca Gaznelilerle ittifak yapmamışlardır, zaman zaman mücadele de etmişlerdir.",
+            "İslâmiyet'i reddetmemişlerdir. O.Asya'da İslâmiyet'i benimseyen ilk Müslüman Türk devletidir.",
+            "Mimari eserlerde kubbe ve kemer kullanımı İslâm mimarisiyle birlikte yaygındır."
+            ]
+        },
+        {
+            "questionText": "Türkiye Selçuklu Devleti döneminde Moğollarla yapılan ve Anadolu'nun İlhanlı hakimiyetine girmesine yol açarak siyasî birliğin bozulmasına neden olan savaş aşağıdakilerden hangisidir?",
+            "options": ["Pasinler Savaşı", "Miryakefalon Savaşı", "Kösedağ Savaşı", "Yassıçemen Savaşı", "Çaldıran Savaşı"],
+            "correctOptionIndex": 2,
+            "explanation": [
+            "Kösedağ Savaşı (1243): Türkiye Selçuklu Devleti ile Moğollar (İlhanlılar) arasında yapılmış, Selçuklular yenilmiş ve Anadolu, Moğol egemenliğine girerek ikinci beylikler dönemi başlamıştır.",
+            "Pasinler Savaşı(1048): Selçuklular ile Bizans arasındaki ilk savaştır.",
+            "Miryakefalon(Kumdanlı)Savaşı: Anadolu'nun kesin Türk yurdu olmasını sağlayan Bizans savaşıdır.",
+            "Yassıçemen Savaşı: Harzemşahlar'ın yıkılmasına yol açan ve Türkiye Selçukluları ile Harzemşahlar arasında gerçekleşen savaştır.",
+            "Çaldıran Savaşı: I. Selim(Yavuz)Dönemi Osmanlı ile Şii Safevi arasında yapılan savaştır."
+            ]
+        },
+        {
+            "questionText": "Osmanlı Devleti'nde Divan-ı Hümayunda alınan kararların kaydedildiği, padişah fermanlarının ve beratların işlendiği defterlere ne ad verilir?",
+            "options": ["Tahrir defteri", "Mühimme defteri", "Şeri sicil", "Avarız defteri", "Cizye defteri"],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Mühimme defteri: Divan-ı Hümayun'da görüşülen önemli siyasi, idari ve adli kararların kaydedildiği defterdir.",
+            "Tahrir defteri: Fethedilen toprakların nüfus, vergi ve arazi dökümünün yapıldığı defterdir.",
+            "Şeri sicil: Kadıların baktığı davaların ve mahkeme kararlarının kaydedildiği defterdir.",
+            "Avarız defteri: Olağanüstü durumlarda toplanan vergilerin ve mükelleflerin yazıldığı defterdir.",
+            "Cizye defteri: Gayrimüslimlerden alınan baş vergisinin kayıt defteridir."
+            ]
+        },
+        {
+            "questionText": "19. yüzyılda yayımlanan Islahat Fermanı (1856) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": [
+            "Müslüman halkın haklarını kısıtlayıp gayrimüslimlere üstünlük tanımıştır.",
+            "Daha çok gayrimüslimlerin haklarını genişletmeyi ve Avrupalı devletlerin iç işlerimize karışmasını önlemeyi amaçlamıştır.",
+            "Padişahın yetkilerini kısıtlayan ilk anayasal belgedir.",
+            "Yalnızca askeri alandaki islahatları kapsar.",
+            "Mısır sorununu çözmek amacıyla ilân edilmiştir."
+            ],
+            "correctOptionIndex": 1,
+            "explanation": [
+            "Islahat Fermanı, Kırım Savaşı(1853-1856 Osmanlı - Rus Harbi)sonrasında Paris Konferansı'nda Avrupalıların baskısıyla azınlıklara geniş haklar vermek için çıkarılmıştır.",
+            "Müslümanlara üstünlük değil, azınlıklara eşitlik (hatta bazı ayrıcalıklar) getirdiği için Müslüman halkın tepkisini çekmiştir.",
+            "Padişahın yetkilerini kısıtlayan anayasa Kanun-i Esasi'dir.",
+            "Islahat Fermanı sadece askeri değil; idari, hukuki ve sosyal alanları da kapsar.",
+            "Mısır Valisi Kavalalı Mehmet Ali Paşa'nın isyanı sonrası sorunu çözmek amacıyla Avrupalı devletlerin iç işlerimize müdahalesini engellemek ve Mısır meselesinde Avrupa'nın desteğini almak için Tanzimat Fermanı ilân edildi."
+            ]
+        }
+        ]
+    }
+    
+    
+]
